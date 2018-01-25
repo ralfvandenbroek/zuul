@@ -180,4 +180,13 @@ public class Game
             return true;  // signal that we want to quit
         }
     }
+
+    /**
+     * Run the game.
+     * @param args Command line arguments.
+     */
+    public static void main(String[] args)
+    {
+        new Game().play();
+    }
 }
