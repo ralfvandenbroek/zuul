@@ -1,3 +1,4 @@
 Dit is een nieuw bestand
 Nog een regel
 Deze regel is lokaal
+Deze regel komt van de server
